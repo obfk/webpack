@@ -6,6 +6,9 @@
   "repository": "https://github.com/obfk/webpack",
   "author": "pipeline",
   "license": "MIT",
+  "scripts": {
+    "bs": "rm -rf node_modules/ && yarn cache clean"
+  },
   "dependencies": {
     "webpack": "^1.14.0"
   }
