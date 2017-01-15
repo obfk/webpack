@@ -1,0 +1,9 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "playing around with webpack",
+  "repository": "https://github.com/obfk/webpack",
+  "author": "pipeline",
+  "license": "MIT"
+}
