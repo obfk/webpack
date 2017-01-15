@@ -5,5 +5,8 @@
   "description": "playing around with webpack",
   "repository": "https://github.com/obfk/webpack",
   "author": "pipeline",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^1.14.0"
+  }
 }
