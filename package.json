@@ -9,7 +9,6 @@
   "scripts": {
     "bs": "rm -rf node_modules/ && yarn cache clean"
   },
-  "dependencies": {
-    "webpack": "^1.14.0"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
