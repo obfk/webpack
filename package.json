@@ -9,6 +9,9 @@
   "scripts": {
     "bs": "rm -rf node_modules/ && yarn cache clean"
   },
-  "dependencies": {},
+  "dependencies": {
+    "css-loader": "^0.26.1",
+    "style-loader": "^0.13.1"
+  },
   "devDependencies": {}
 }
